@@ -18,15 +18,14 @@ class AppAsset extends AssetBundle
         "themes/assets/vendor/venobox/venobox.css",
         "themes/assets/vendor/owl.carousel/assets/owl.carousel.min.css",
         "themes/assets/vendor/aos/aos.css",
-        'css/site.css',
+        'themes/assets/css/site.css',
         "themes/assets/css/style.css",
         "themes/assets/vendor/bootstrap/css/bootstrap.min.css",
         "themes/assets/vendor/icofont/icofont.min.css",
         "themes/assets/vendor/boxicons/css/boxicons.min.css",
         "themes/assets/vendor/venobox/venobox.css",
         "themes/assets/vendor/owl.carousel/assets/owl.carousel.min.css",
-        "themes/assets/vendor/aos/aos.css",
-        "themes/assets/css/style.css"
+        "themes/assets/vendor/aos/aos.css"
     ];
     public $js = [
         "assets/vendor/jquery/jquery.min.js",

@@ -25,7 +25,7 @@ AppAsset::register($this);
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="themes/assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -42,7 +42,7 @@ AppAsset::register($this);
 <header id="header">
   <div class="d-flex flex-column">
   <div class="profile">
-        <img src="themes/assets/img/silah.jpg" alt="" class="img-fluid rounded-circle">
+         <img src="web/themes/assets/img/silah.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Silas Silikhe</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/silikhesilas" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -92,7 +92,7 @@ Let's make something special 😉.</p>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="themes/assets/img/sil12.jpg" class="img-fluid" alt=""></br>
+            <img src="web/themes/assets/img/sil12.jpg" class="img-fluid" alt=""></br>
             <p class="font-italic pt-3">
               <strong> Presentation Demo for facebook Developers circle Hackerthon</strong>
             </p>
@@ -121,8 +121,12 @@ Let's make something special 😉.</p>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            I'm obsessed with making things and even more obsessed with making things better.I started this when I was 18. After graduating from the High school,
+             I've been actively involved in the web design community for the last 2 years. I've designed
+               websites for small businesses,corporations, churches and more. I also started a development
+                blog where I share inspiration, tutorials, and resources.
+My specialty is full web planing, design and development and turning it into beautiful, semantic HTML & CSS. My interests, however, extend beyond the web and I love
+photography and photoshooting. I even love making designs move by creating professional photoshoots.
             </p>
           </div>
         </div>
@@ -136,7 +140,7 @@ Let's make something special 😉.</p>
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I am fasion obssesed. I do not have a favourite programing language bizarre right..lol. When not coding I am probably sleeping</p>
         </div>
 
         <div class="row no-gutters">
@@ -145,7 +149,7 @@ Let's make something special 😉.</p>
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
               <span data-toggle="counter-up">2</span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <p><strong>Happy Clients</strong> I have worked with</p>
             </div>
           </div>
 
@@ -153,7 +157,7 @@ Let's make something special 😉.</p>
             <div class="count-box">
               <i class="icofont-document-folder"></i>
               <span data-toggle="counter-up">16</span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <p><strong>Projects</strong> I have creted and developed</p>
             </div>
           </div>
 
@@ -161,15 +165,15 @@ Let's make something special 😉.</p>
             <div class="count-box">
               <i class="icofont-live-support"></i>
               <span data-toggle="counter-up">63</span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <p><strong>Hours Of Support</strong> to the community of tech</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
               <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <span data-toggle="counter-up">5</span>
+              <p><strong>Hard Workers</strong> I have worked with</p>
             </div>
           </div>
 
@@ -184,7 +188,7 @@ Let's make something special 😉.</p>
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Look at what I can do. Below are list of stack I have worked with mostly</p>
         </div>
         <div class="row skills-content">
 
@@ -250,7 +254,7 @@ Let's make something special 😉.</p>
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This is my resume that shows more about my proffesional life</p>
         </div>
 
         <div class="row">
@@ -269,7 +273,7 @@ Let's make something special 😉.</p>
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
               <h4>Bsc. Operations Research </h4>
-              <h5>2016 - present</h5>
+              <h5>2018 - present</h5>
               <p><em>Jomo Kenyatta University of Agriculture and Technology, Nairobi</em></p>
               <p>Currently I am pursuing Bachelor of Science in operation Reserch.</p>
             </div>
@@ -285,12 +289,11 @@ Let's make something special 😉.</p>
             <div class="resume-item">
               <h4>Freelancer</h4>
               <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <p><em>Upwork, Kenya, Nairobi </em></p>
               <ul>
                 <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
                 <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
                 <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -316,7 +319,7 @@ Let's make something special 😉.</p>
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I have worked in many type of projects both personal and professional. Here are some of the projects I've developed/Created.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -334,9 +337,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/BooksAndroid" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -344,9 +347,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="http://chat-siltek.herokuapp.com/signup" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -354,9 +357,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/android_app" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -364,9 +367,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="web/assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="https://silsilas.github.io/Color-game/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -374,9 +377,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/gramas-website/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -384,9 +387,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/recycler-view" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -394,9 +397,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/portf/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -404,9 +407,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/tetris-game/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -414,9 +417,9 @@ Let's make something special 😉.</p>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="themes/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="web/themes/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="themes/assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="web/themes/assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="https://juja-hostels.netlify.app/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -433,7 +436,7 @@ Let's make something special 😉.</p>
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I am obssed i making things, even more obssesed in making things better. Here are some of my speciality that I am most conversant with.</p>
         </div>
 
         <div class="row">
@@ -490,7 +493,7 @@ Emailing & contests</p>
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Testimonies from some of people I have worked with since in my programming journey</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
@@ -498,11 +501,11 @@ Emailing & contests</p>
           <div class="testimonial-item" data-aos="fade-up">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+             Delivered a good work, and the clients loved the product.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
+            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <h3>Jeniffer Kibiri</h3>
             <h4>Ceo &amp; Founder</h4>
           </div>
 
@@ -512,8 +515,8 @@ Emailing & contests</p>
               He's helped us with aspects from full mobile app designs, to screenshots for app
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
+            <img src="web/themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
+            <h3>Denis Juma</h3>
             <h4>Designer</h4>
           </div>
 
@@ -523,8 +526,8 @@ Emailing & contests</p>
               He has consistently helped bring significant value to a lot of our products
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
+            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <h3>Ester Kwamboka</h3>
             <h4>Store Owner</h4>
           </div>
 
@@ -534,19 +537,19 @@ Emailing & contests</p>
               His work is magic - he merges stunning user interface design with great user experience and designs products that give tangible results
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
+            <img src="web/themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
+            <h3>Julius Omondi</h3>
             <h4>Freelancer</h4>
           </div>
 
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              Working with you was amaizing.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
+            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <h3>Moreen Mokeira</h3>
             <h4>Entrepreneur</h4>
           </div>
 
@@ -561,8 +564,8 @@ Emailing & contests</p>
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Have an exciting project where you need some help?
-Send me over an email, and let's chat.</p>
+          <p>I am currently available for freelance projects or full-time work. If you are
+            interested in working with me, please get in touch using one of the methods below. Or feel free to just say hi. I like that too.</p>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -652,10 +655,10 @@ Send me over an email, and let's chat.</p>
 
 
     <!-- <div class="container">
-        <?= Breadcrumbs::widget([
+        <!-- <?= Breadcrumbs::widget([
             'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
         ]) ?>
-         <?= $content ?>
+         <?= $content ?> -->
     </div> -->
 </div>
 
