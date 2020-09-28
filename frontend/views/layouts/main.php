@@ -25,7 +25,7 @@ AppAsset::register($this);
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="themes/assets/img/favicon.png" rel="icon">
+  <link href="themes/assets/img/silah.jpj" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
