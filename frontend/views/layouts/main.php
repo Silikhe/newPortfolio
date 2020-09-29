@@ -37,12 +37,12 @@ AppAsset::register($this);
 <?php $this->beginBody() ?>
 <!-- ======= Mobile nav toggle button ======= -->
 <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
-
+		
 <!-- ======= Header ======= -->
 <header id="header">
   <div class="d-flex flex-column">
   <div class="profile">
-         <img src="web/themes/assets/img/silah.jpg" alt="" class="img-fluid rounded-circle">
+         <img src="themes/assets/img/silah.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Silas Silikhe</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/silikhesilas" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -92,7 +92,7 @@ Let's make something special 😉.</p>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="web/themes/assets/img/sil12.jpg" class="img-fluid" alt=""></br>
+            <img src="themes/assets/img/sil12.jpg" class="img-fluid" alt=""></br>
             <p class="font-italic pt-3">
               <strong> Presentation Demo for facebook Developers circle Hackerthon</strong>
             </p>
@@ -337,9 +337,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/BooksAndroid" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -347,9 +347,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="http://chat-siltek.herokuapp.com/signup" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -357,9 +357,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/android_app" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -367,9 +367,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="https://silsilas.github.io/Color-game/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -377,9 +377,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/gramas-website/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -387,9 +387,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="https://github.com/Silikhe/recycler-view" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -397,9 +397,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/portf/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -407,9 +407,9 @@ photography and photoshooting. I even love making designs move by creating profe
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="web/themes/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="themes/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="web/themes/assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="themes/assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="silsilas.github.io/tetris-game/" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -504,7 +504,7 @@ Emailing & contests</p>
              Delivered a good work, and the clients loved the product.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
             <h3>Jeniffer Kibiri</h3>
             <h4>Ceo &amp; Founder</h4>
           </div>
@@ -515,7 +515,7 @@ Emailing & contests</p>
               He's helped us with aspects from full mobile app designs, to screenshots for app
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="web/themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
+            <img src="themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
             <h3>Denis Juma</h3>
             <h4>Designer</h4>
           </div>
@@ -526,7 +526,7 @@ Emailing & contests</p>
               He has consistently helped bring significant value to a lot of our products
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
             <h3>Ester Kwamboka</h3>
             <h4>Store Owner</h4>
           </div>
@@ -537,7 +537,7 @@ Emailing & contests</p>
               His work is magic - he merges stunning user interface design with great user experience and designs products that give tangible results
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="web/themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
+            <img src="themes/assets/img/testimonials/man.png" class="testimonial-img" alt="">
             <h3>Julius Omondi</h3>
             <h4>Freelancer</h4>
           </div>
@@ -548,7 +548,7 @@ Emailing & contests</p>
               Working with you was amaizing.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="web/themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
+            <img src="themes/assets/img/testimonials/woman.png" class="testimonial-img" alt="">
             <h3>Moreen Mokeira</h3>
             <h4>Entrepreneur</h4>
           </div>
